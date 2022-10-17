@@ -19,5 +19,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
         
         // Test commit 1
+        // Test commit 2
     }
 }
