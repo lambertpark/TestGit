@@ -17,5 +17,9 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+        
+        // Test commit 1
+        // Test commit 2
+        // Test commit 3
     }
 }
